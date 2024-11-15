@@ -33,7 +33,7 @@
 
 ![image-20241115035450490](assets/images/teaser.png)
 
-![image-20241115035450490](README.assets/pipeline.png)
+![image-20241115035450490](assets/images/pipeline.png)
 
 ## Project Updates
 
