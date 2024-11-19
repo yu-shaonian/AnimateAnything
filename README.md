@@ -3,13 +3,13 @@
   <div class="is-flex is-justify-content-center">
     <ul class="icon-list">
         <li>
-            <a target="_blank" href="">
+            <a target="_blank" href="https://arxiv.org/pdf/2411.10836">
                 <img src="assets/images/arxiv.png" width="25px" alt="arXiv" class="icon"> arXiv
                     <!-- <h4><strong>arXiv</strong></h4> -->
             </a>
         </li>
         <li>
-            <a target="_blank" href="">
+            <a target="_blank" href="https://arxiv.org/pdf/2411.10836">
                 <img src="assets/images/book_logo.png" width="25px" alt="Paper" class="icon"> Paper
                     <!-- <h4><strong>arXiv</strong></h4> -->
             </a>
