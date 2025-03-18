@@ -1,4 +1,4 @@
-# AnimateAnything
+# AnimateAnything: Consistent and Controllable Animation for video generation (Cvpr2025)
 
   <div class="is-flex is-justify-content-center">
     <ul class="icon-list">
@@ -100,6 +100,17 @@ ThankS CogVideoX and MOFA-Video for their great contribution to the **AIGC**
 ## Citation
 
 🌟 If you find our work helpful, please leave us a star and cite our paper. Our Code is mainly based on CogVideoX，Please Cite Them Too.
+
+```
+@article{lei2024animateanything,
+  title={Animateanything: Consistent and controllable animation for video generation},
+  author={Lei, Guojun and Wang, Chi and Li, Hong and Zhang, Rong and Wang, Yikai and Xu, Weiwei},
+  journal={arXiv preprint arXiv:2411.10836},
+  year={2024}
+}
+```
+
+
 
 
 
