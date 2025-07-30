@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=yu-shaonian&project=AnimateAnything&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # AnimateAnything: Consistent and Controllable Animation for video generation (Cvpr2025)
 
   <div class="is-flex is-justify-content-center">
